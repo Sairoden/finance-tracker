@@ -24,6 +24,8 @@ gem 'jbuilder', '~> 2.7'
 gem 'devise', '~> 4.8'
 gem 'devise-bootstrap-views', '~> 1.0'
 gem 'iex-ruby-client', '~> 1.4', '>= 1.4.1'
+gem "font-awesome-rails"
+
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
